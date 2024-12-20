@@ -1,5 +1,5 @@
 # p-mean-regret-stochastic-bandits
-Code for running experiments described in the extended version of the paper "p-Mean Regret for Stochastic Bandits" by Anand Krishna, Philips George John, Adarsh Barik, Vincent Y.F. Tan.
+Code for running experiments described in the extended version of the paper "p-Mean Regret for Stochastic Bandits" by Anand Krishna, Philips George John, Adarsh Barik, Vincent Y.F. Tan ([https://arxiv.org/abs/2412.10751](https://arxiv.org/abs/2412.10751)).
 
 These experiments can be run using the following command:
 ```
